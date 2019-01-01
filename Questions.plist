@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>text</key>
+		<string>Откуда обычно достает подарки Дед Мороз?</string>
+		<key>id</key>
+		<integer>0</integer>
+		<key>correctAnswer</key>
+		<integer>1</integer>
+		<key>answers</key>
+		<array>
+			<integer>0</integer>
+			<integer>1</integer>
+			<integer>2</integer>
+			<integer>3</integer>
+		</array>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>Какой элемент есть в конструкции башенного крана?
+</string>
+		<key>id</key>
+		<integer>1</integer>
+		<key>correctAnswer</key>
+		<integer>4</integer>
+		<key>answers</key>
+		<array>
+			<integer>4</integer>
+			<integer>5</integer>
+			<integer>6</integer>
+			<integer>7</integer>
+		</array>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>Что написал Данте?</string>
+		<key>id</key>
+		<integer>2</integer>
+		<key>correctAnswer</key>
+		<integer>9</integer>
+		<key>answers</key>
+		<array>
+			<integer>8</integer>
+			<integer>9</integer>
+			<integer>10</integer>
+			<integer>11</integer>
+		</array>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>Чем профессионально занимается провизор?</string>
+		<key>id</key>
+		<integer>3</integer>
+		<key>correctAnswer</key>
+		<integer>13</integer>
+		<key>answers</key>
+		<array>
+			<integer>12</integer>
+			<integer>13</integer>
+			<integer>14</integer>
+			<integer>15</integer>
+		</array>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>Что на Руси называли «голова садовая»?</string>
+		<key>id</key>
+		<integer>4</integer>
+		<key>correctAnswer</key>
+		<integer>18</integer>
+		<key>answers</key>
+		<array>
+			<integer>16</integer>
+			<integer>17</integer>
+			<integer>18</integer>
+			<integer>19</integer>
+		</array>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>Какая героиня, как уверяют венецианцы, жила во дворце Контарини-Фазан?</string>
+		<key>id</key>
+		<integer>5</integer>
+		<key>correctAnswer</key>
+		<integer>20</integer>
+		<key>answers</key>
+		<array>
+			<integer>20</integer>
+			<integer>21</integer>
+			<integer>22</integer>
+			<integer>23</integer>
+		</array>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>До конца 18 века при английском королевском дворе была должность откупорщика бутылок. Какие бутылки он открывал?</string>
+		<key>id</key>
+		<integer>6</integer>
+		<key>correctAnswer</key>
+		<integer>26</integer>
+		<key>answers</key>
+		<array>
+			<integer>24</integer>
+			<integer>25</integer>
+			<integer>26</integer>
+			<integer>27</integer>
+		</array>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>В какой стране был построен ледокол «Ермак»?</string>
+		<key>id</key>
+		<integer>7</integer>
+		<key>correctAnswer</key>
+		<integer>31</integer>
+		<key>answers</key>
+		<array>
+			<integer>28</integer>
+			<integer>29</integer>
+			<integer>30</integer>
+			<integer>31</integer>
+		</array>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>Как правильно закончить пословицу: «Не откладывай на завтра то, что можно…»?</string>
+		<key>id</key>
+		<integer>8</integer>
+		<key>correctAnswer</key>
+		<integer>32</integer>
+		<key>answers</key>
+		<array>
+			<integer>32</integer>
+			<integer>33</integer>
+			<integer>34</integer>
+			<integer>35</integer>
+		</array>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>Что не бывает морским?</string>
+		<key>id</key>
+		<integer>9</integer>
+		<key>correctAnswer</key>
+		<integer>36</integer>
+		<key>answers</key>
+		<array>
+			<integer>36</integer>
+			<integer>37</integer>
+			<integer>38</integer>
+			<integer>39</integer>
+		</array>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>Как жители Лондона прозвали небоскреб Мэри-Экс, спроектированный Норманом Фостером?</string>
+		<key>id</key>
+		<integer>10</integer>
+		<key>correctAnswer</key>
+		<integer>40</integer>
+		<key>answers</key>
+		<array>
+			<integer>40</integer>
+			<integer>41</integer>
+			<integer>42</integer>
+			<integer>43</integer>
+		</array>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>Где в Древней Греции можно было увидеть надпись: «Здесь живут мертвые и говорят немые»?</string>
+		<key>id</key>
+		<integer>11</integer>
+		<key>correctAnswer</key>
+		<integer>46</integer>
+		<key>answers</key>
+		<array>
+			<integer>44</integer>
+			<integer>45</integer>
+			<integer>46</integer>
+			<integer>47</integer>
+		</array>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>Что такое лобогрейка?</string>
+		<key>id</key>
+		<integer>12</integer>
+		<key>correctAnswer</key>
+		<integer>48</integer>
+		<key>answers</key>
+		<array>
+			<integer>48</integer>
+			<integer>49</integer>
+			<integer>50</integer>
+			<integer>51</integer>
+		</array>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>из шкатулки</string>
+		<key>id</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>из мешка</string>
+		<key>id</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>из-за пазухи </string>
+		<key>id</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>из интернет-магазина</string>
+		<key>id</key>
+		<integer>3</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>стрела</string>
+		<key>id</key>
+		<integer>4</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>копье</string>
+		<key>id</key>
+		<integer>5</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>дротик</string>
+		<key>id</key>
+		<integer>6</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>бумеранг</string>
+		<key>id</key>
+		<integer>7</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Божественную трагедию</string>
+		<key>id</key>
+		<integer>8</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Божественную комедию</string>
+		<key>id</key>
+		<integer>9</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Божественную драму</string>
+		<key>id</key>
+		<integer>10</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Божественный фарс</string>
+		<key>id</key>
+		<integer>11</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Наблюдает за погодой</string>
+		<key>id</key>
+		<integer>12</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Готовит лекарства</string>
+		<key>id</key>
+		<integer>13</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Ухаживает за растениями</string>
+		<key>id</key>
+		<integer>14</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Импровизирует</string>
+		<key>id</key>
+		<integer>15</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Репу</string>
+		<key>id</key>
+		<integer>16</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Свеклу</string>
+		<key>id</key>
+		<integer>17</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Капусту</string>
+		<key>id</key>
+		<integer>18</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Яблоко</string>
+		<key>id</key>
+		<integer>19</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Дездемона</string>
+		<key>id</key>
+		<integer>20</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Офелия</string>
+		<key>id</key>
+		<integer>21</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Джульетта</string>
+		<key>id</key>
+		<integer>22</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Катарина</string>
+		<key>id</key>
+		<integer>23</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>С вином для королевы</string>
+		<key>id</key>
+		<integer>24</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>С уксусом для кухни</string>
+		<key>id</key>
+		<integer>25</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Прибитые к берегу</string>
+		<key>id</key>
+		<integer>26</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>С заграничными благовониями</string>
+		<key>id</key>
+		<integer>27</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>В России</string>
+		<key>id</key>
+		<integer>28</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>В Германии</string>
+		<key>id</key>
+		<integer>29</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>В Нидерландах</string>
+		<key>id</key>
+		<integer>30</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>В Великобритании</string>
+		<key>id</key>
+		<integer>31</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Сделать сегодня</string>
+		<key>id</key>
+		<integer>32</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Сделать послезавтра</string>
+		<key>id</key>
+		<integer>33</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Сделать через месяц</string>
+		<key>id</key>
+		<integer>34</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Ничего не делать</string>
+		<key>id</key>
+		<integer>35</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Рельс</string>
+		<key>id</key>
+		<integer>36</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Огурец</string>
+		<key>id</key>
+		<integer>37</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Гребешок</string>
+		<key>id</key>
+		<integer>38</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Узел</string>
+		<key>id</key>
+		<integer>39</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Корнишон</string>
+		<key>id</key>
+		<integer>40</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Баклажан</string>
+		<key>id</key>
+		<integer>41</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Кабачок</string>
+		<key>id</key>
+		<integer>42</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Патиссон</string>
+		<key>id</key>
+		<integer>43</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>На кладбищах</string>
+		<key>id</key>
+		<integer>44</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>В больницах</string>
+		<key>id</key>
+		<integer>45</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>В библиотеках</string>
+		<key>id</key>
+		<integer>46</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>В тюрьмах</string>
+		<key>id</key>
+		<integer>47</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Жнейка</string>
+		<key>id</key>
+		<integer>48</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Шапка</string>
+		<key>id</key>
+		<integer>49</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Болезнь</string>
+		<key>id</key>
+		<integer>50</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Печка</string>
+		<key>id</key>
+		<integer>51</integer>
+	</dict>
+</array>
+</plist>
